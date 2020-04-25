@@ -213,13 +213,44 @@ Secondary Active Transport:
 
 ### Renin
 Low blood pressure stimulates in three ways:
-1. Reduce GFR
+1. Reduce GFR - detected by reduced Na+ at the macula densa
 2. Reduce BP - detected by atrial stretch receptors and carotid & aortic baroreceptors
 3. Reduce BP - detected _directly_ by afferent arterioles
 
 <img src="./Figures/Renin.png">
 
+* __Granular cells__ of afferent arterioles produce and secrete renin
+* ANG II has other targets: cardiovascular control center (increase CO), arterioles (vasoconstrictor), hypothalamus (increases AVP), hypothalamus (induces thirst)
+* Liver continuously produces and secrets angiotensinogen
+* ACE - Angiotensin-converting enzyme on all vascular endothelial cells
+
 ### pH Homeostasis
+1. Buffers - cellular proteins, hemoglobin, HCO3-
+2. Regulation of ventilation (rate & depth)
+   * Immediate
+3. Kidney - regulation of H+ and HCO3- secretion/reabsorption
+
+#### Renal Compensation
+* Proximal Tubule:
+    
+    <img src="./Figures/pH%20proximal.png">
+
+* Collecting Duct Intercalated cells (IC)
+  * Contain high intracellular levels of __carbonic anhydrase__
+  * Type A - HCO3- generated, H+ secretion (response to acidosis)
+  
+    <img src="./Figures/pH%20collecting%20duct%20A.png">
+
+  * Type B - HCO3- secretion (response to alkalosis)
+  
+    <img src="./Figures/pH%20collecting%20duct%20B.png">
+
+#### Disturbances
+* Acidosis (low pH)
+  * Complications: Impaired protein function/denaturing, CNS depression (respiratory failure/coma)
+* Alkalosis (high pH)
+  * Complications: increase neuronal excitability (Seizures, tetanus)
+
 
 [Biology](Renal_Physiology.md) | [Engineering](Renal_Physiology_Eng.md) | [Home]
 
